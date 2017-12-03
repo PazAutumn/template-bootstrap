@@ -1,0 +1,33 @@
+section {
+	margin: 30px;
+}
+
+.jumbotron {
+	border-radius: 5px;
+}
+
+.btn {
+	margin: 10px 0;
+}
+
+.thumbnail {
+	width: 200px;
+	height: 200px;
+}
+
+.nav-pills {
+	padding: 10px 0;
+}
+
+.dropdown-menus {
+	height: 250px;
+}
+
+.dropdown-menus .dropdown-menu {
+	display: inline-block;
+}
+
+.dropdown-menus .dropdown-menu li:first-of-type {
+	background-color: #337AB7;
+	color: white;
+}
